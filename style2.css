@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Monomakh&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+    font-family: "Oswald", sans-serif;
+}
+.main1{
+	width: 100%;
+	height: 78vh;
+	background-image: url(fon.jpg);
+	color: #333333;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.content1{
+	text-align: left;
+	position: relative;
+}
+.main1 h1{
+	font-size: 45px;
+	text-align: center;
+}
+.main1 h2{
+	font-size: 25px;
+	position: relative;
+	left: 50px;
+}
+.content2{
+	text-align: left;
+	position: relative;
+}
+.main2{
+	width: 100%;
+	height: 115vh;
+	background-image: url(fon.jpg);
+	color: #333333;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.main2 h1{
+	font-size: 45px;
+	text-align: center;
+}
+.main2 h2{
+	font-size: 25px;
+	position: relative;
+	left: 50px;
+}
+.main2 a{
+	font-size: 25px;
+	position: relative;
+	right: 56px;
+}
+.image2 {
+	position: relative;
+	left: 600px;
+}
+.main2 button{
+	position: relative;
+	left: 1300px;
+	bottom: 40px;
+}
+.image {
+	position: relative;
+	height: 15vh;
+	left: 520px;
+	top: 55px;
+}
+.image3 {
+	position: relative;
+	height: 13vh;
+	left: 360px;
+	position: absolute;
+}

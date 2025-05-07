@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Monomakh&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');*{
+	margin: 0;
+	padding: 0;
+    font-family: "Oswald", sans-serif;
+}
+.main{
+	width: 100%;
+	height: 100vh;
+	background-image: url(fon.jpg);
+	color: #333333;
+	font-size: 20px;
+	overflow-x: hidden;
+}
+.content{
+	text-align: center;
+	position: relative;
+	top: 40%;
+}
+.button{
+	position: relative;
+	right: 400px;
+    top: 150px;
+}
+.button2{
+	position: relative;
+	left: 400px;
+	top: 109px;
+}
