@@ -6,7 +6,7 @@
 }
 .main3{
 	width: 100%;
-	height: 73vh;
+	height: 40%;
 	background-image: url(fon.jpg);
 	color: #333333;
 	overflow-x: hidden;
@@ -26,10 +26,11 @@
 }
 .main4{
 	width: 100%;
-	height: 85vh;
+	height: 87vh;
 	background-image: url(fon.jpg);
 	color: #333333;
 	overflow-x: hidden;
+	overflow-y: hidden;
 }
 .content4{
 	text-align: left;
@@ -52,7 +53,7 @@
 }
 .image2 {
 	position: relative;
-	left: 600px;
+	left: 45%;
 }
 .main4 button{
 	position: absolute;
@@ -66,5 +67,5 @@
 .image3 {
 	position: absolute;
 	height: 10vh;
-	left: 1170px;
+	left: 1180px;
 }

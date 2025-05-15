@@ -50,6 +50,7 @@
 	font-size: 25px;
 	position: relative;
 	right: 56px;
+	bottom: 50px;
 }
 .image2 {
 	position: relative;
@@ -58,13 +59,12 @@
 .main2 button{
 	position: relative;
 	left: 1300px;
-	bottom: 40px;
+	bottom: 60px;
 }
 .image {
 	position: relative;
 	height: 15vh;
 	left: 520px;
-	top: 55px;
 }
 .image3 {
 	position: relative;
